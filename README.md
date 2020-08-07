@@ -1,6 +1,8 @@
 ### Kim Taehwan - @maxtortime 👋
 
-Hello! Welcome to my Github Profile. I'm working at Nexon Korea by Software Developer. I used to develop Web application using Python(Flask, Django) and JavasScript(React, Vue.js). Nowdays, I'm interesting and studying C# and Game Server technology. 
+Hello! Welcome to my Github Profile. I'm working at Nexon Korea by Software Developer. I used to develop Web application using Python(Flask, Django) and JavasScript(React, Vue.js). Nowdays, I'm interesting and studying C# and Game Server technology.
+
+[![maxtortime's github stats](https://github-readme-stats.vercel.app/api?username=maxtortime)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Interesting
