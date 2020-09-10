@@ -2,6 +2,8 @@
 
 Hello! Welcome to my Github Profile. I'm working at Nexon Korea by Software Developer. I used to develop Web application using Python(Flask, Django) and JavasScript(React, Vue.js). Nowdays, I'm interesting and studying C# and Game Server technology.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtortime&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 [![maxtortime's github stats](https://github-readme-stats.vercel.app/api?username=maxtortime)](https://github.com/anuraghazra/github-readme-stats)
 
 
