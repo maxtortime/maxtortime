@@ -1,7 +1,6 @@
 ### 김태환 · @maxtortime 👋
 
-안녕하세요! [플랫팜(Platpharm)](https://www.platpharm.co.kr/)에서 소프트웨어 개발자로 일하고 있습니다.  
-Python(Flask, Django)과 JavaScript(React, Vue.js)로 웹 개발을 해왔고, 요즘은 Rust와 데스크탑 앱 개발에 빠져 있습니다.
+안녕하세요! [플랫팜(Platpharm)](https://www.platpharm.co.kr/)에서 소프트웨어 개발자로 일하고 있습니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtortime&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,17 +18,9 @@ Cloudflare 우회, EUC-KR 디코딩, JS 렌더링 등 다양한 크롤링 기법
 
 ---
 
-#### 관심 분야
-
-- Rust · 데스크탑 앱 개발 (Tauri)
-- Python · 웹 크롤링 · 백엔드
-- C# · 게임 서버
-- 기술 교육
-
 #### 연락처
 
 - [LinkedIn](https://www.linkedin.com/in/maxtortime/)
-- [플랫팜 GitHub](https://github.com/platpharm)
 
 #### @maxtortime의 유래
 
