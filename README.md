@@ -1,6 +1,7 @@
 ### 김태환 · @maxtortime 👋
 
 - https://maxtortime.itch.io/
+  - [최강의 리볼버 (프로토타입)](https://maxtortime.itch.io/strongest-revolver)
 
 #### @maxtortime의 유래
 
