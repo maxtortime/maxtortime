@@ -1,7 +1,7 @@
 ### 김태환 · @maxtortime 👋
 
 - [최강의 리볼버 (프로토타입)](https://maxtortime.itch.io/strongest-revolver)
-- [피규어 큐레이터](figurecurator.com)
+- [피규어 큐레이터](https://figurecurator.com)
 
 #### @maxtortime의 유래
 
